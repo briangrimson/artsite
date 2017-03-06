@@ -1,0 +1,89 @@
+body{
+  font-size:2vmin;
+}
+
+
+.caption{
+  margin-top:1vh;
+  font-size:1.5vh;
+}
+
+.thumb{
+  width:15vmax;
+  height:15vmax;
+  /*width:20vmax;*/
+  overflow:hidden;
+}
+
+.thumb:hover{
+  box-shadow:
+}
+.artwork{
+  margin:1vh 1vw;
+  padding-top:2vh;
+  text-align:center;
+  display:inline-block;
+  height:20vmax;
+  width:20vmax;
+}
+
+
+
+.searchNav{
+  font-family: 'Permanent Marker', cursive;
+  text-align:right;
+  width:20vw;
+  margin:20vh 0;
+  display:inline-block;
+  float:left;
+  clear:left;
+
+}
+.gallery{
+  text-align:center;
+  margin:5vh 0 0 0;
+  max-width:75vmax;
+  height:90vh;
+  overflow-y:scroll;
+  display:inline-block;
+  float:right;
+  position:fixed;
+
+
+
+}
+
+input[type=checkbox]{
+float:right;
+
+}
+
+
+input[type=text]{
+
+}
+
+input[type=submit]{
+  margin:2vh 0 2vh 0;
+
+
+
+}
+
+
+
+label{
+margin:0 1vw;
+
+}
+
+i{
+
+}
+
+.info{
+
+
+
+
+}
